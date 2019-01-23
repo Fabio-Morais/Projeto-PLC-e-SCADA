@@ -41,8 +41,6 @@ O trabalho irá ser todo modelado em grafcet e em seguida implementado no progra
 
 ----
 
-<br />
-<br />
 
 ##### Funcionalidades
 * Inicialização do sistema, verificando se há peças
