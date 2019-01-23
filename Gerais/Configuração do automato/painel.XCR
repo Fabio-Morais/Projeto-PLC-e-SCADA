@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SCRExchangeFile>
+	<fileHeader company="Schneider Automation" product="Unity Pro XL V6.0 - 110610" dateTime="date_and_time#2013-9-6-14:51:7" content="Operator Screen source file" DTDVersion="41"></fileHeader>
+	<contentHeader name="Project" version="0.0.16" dateTime="date_and_time#2012-11-9-11:31:9"></contentHeader>
+	<IOScreen version="V1.0">
+		<screen name="Painel" screenX="1280" screenY="1024" BKColor="-1" valScreen="0" location="" creationDate="11/10/2012 - 11:43:45" modificationDate="06/09/2013 - 14:50:14" customInfos="" isPattern="0" valPattern="0">
+			<object objectID="11" description="(47,144,197,218),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(22,144,46,218),(0,1,0),(11,0,255),|Vermelho|Courier New|,(10,1,0,0,0,0,16777215)"></object>
+			<object objectID="11" description="(48,228,198,302),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(23,228,47,302),(0,1,0),(11,0,65280),|Verde|Courier New|,(10,1,0,0,0,0,0)"></object>
+			<object objectID="11" description="(47,313,197,387),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(21,312,45,386),(0,1,0),(11,0,16711680),|Azul|Courier New|,(10,1,0,0,0,0,16777215)"></object>
+			<object objectID="11" description="(48,397,198,471),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(23,397,47,471),(0,1,0),(11,0,65535),|Amarelo|Courier New|,(10,1,0,0,0,0,0)"></object>
+			<object objectID="11" description="(48,568,198,642),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(23,568,47,642),(0,1,0),(11,0,12632256),|Teste 1|Courier New|,(10,1,0,0,0,0,0)"></object>
+			<object objectID="11" description="(49,652,199,726),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(24,652,48,726),(0,1,0),(11,0,12632256),|Teste 2|Courier New|,(10,1,0,0,0,0,0)"></object>
+			<object objectID="11" description="(47,50,197,133),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(22,48,46,133),(0,1,0),(11,0,8388736),|Emergência|Courier New|,(10,1,0,0,0,0,16777215)"></object>
+			<object objectID="18" description="(63,150,103,211),(-1,0,0,2),||">
+				<varPilot name="B_vrm" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="18" description="(63,234,103,295),(-1,0,0,2),||">
+				<varPilot name="B_vrd" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="18" description="(63,403,103,464),(-1,0,0,2),||">
+				<varPilot name="B_aml" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="18" description="(63,319,103,380),(-1,0,0,2),||">
+				<varPilot name="B_azu" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="18" description="(63,657,103,718),(-1,0,0,2),||">
+				<varPilot name="B_tst2" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="18" description="(63,573,103,634),(-1,0,0,2),||">
+				<varPilot name="B_tst1" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="11" description="(139,155,186,208),(0,1,0),(11,0,255)">
+				<varAnim name="L_vrm" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(139,68,186,121),(0,1,0),(11,0,255)">
+				<varAnim name="L_emg" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(139,324,186,377),(0,1,0),(11,0,16711680)">
+				<varAnim name="L_azu" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(139,242,186,295),(0,1,0),(11,0,65280)">
+				<varAnim name="L_vrd" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(138,578,185,631),(0,1,0),(11,0,16711935)">
+				<varAnim name="L_tst1" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(139,408,186,461),(0,1,0),(11,0,65535)">
+				<varAnim name="L_aml" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(138,661,185,714),(0,1,0),(11,0,8388736)">
+				<varAnim name="L_tst2" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="11" description="(48,481,198,555),(0,1,0),(10,0,0)"></object>
+			<object objectID="15" description="(23,481,47,555),(0,1,0),(11,0,0),|Branco|Courier New|,(10,1,0,0,0,0,16777215)"></object>
+			<object objectID="18" description="(63,487,103,548),(-1,0,0,2),||">
+				<varPilot name="B_bra" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+			<object objectID="11" description="(139,492,186,545),(0,1,0),(11,0,0)">
+				<varAnim name="L_bra" typeName="BOOL" description="Anim:2,|-|-|,(0,0),(0,0)"></varAnim>
+			</object>
+			<object objectID="18" description="(60,60,100,121),(-1,0,0,1),||">
+				<varPilot name="B_emg" typeName="BOOL" description="Pilot:|0|0|"></varPilot>
+			</object>
+		</screen>
+	</IOScreen>
+</SCRExchangeFile>
