@@ -3,9 +3,13 @@ ___
 
 #### Neste trabalho pretende-se controlar e supervisionar uma célula da linha de produção flexível que existe no laboratório.
 ___
-* ###### Tarefa 1: desenvolver uma aplicação de controlo da célula utilizando um autómato programável.<br/>
+* ###### Tarefa 1: desenvolver uma aplicação de controlo da célula utilizando um autómato programável.
 * ###### Tarefa 2: desenvolver uma aplicação de supervisão e monitorizarão da célula utilizando uma aplicação SCADA.
+<br />
 
+<br />
+
+<br />
 
 **A linha de produção tem o seguinte aspeto:**
 ![2](https://user-images.githubusercontent.com/35969631/51605293-8d283c80-1f06-11e9-8dab-bf1868a8445f.PNG)
@@ -25,12 +29,20 @@ Irá ser desenvolvida o controlo e supervisão apenas para a celula 1 recorrendo
 
 O trabalho irá ser todo modelado em grafcet e em seguida implementado no programa [**Unity Pro Xl**](https://www.se.com/br/pt/faqs/FA291015/) dando uso a qualquer linguagem suportada pelo IEC 61131-3. 
 
+<br />
+
+---
 
 **Video curto de algumas funcionalidades do processo de controlo**
 [![PLC](http://img.youtube.com/vi/UpqLWS-f7dw/0.jpg)](https://www.youtube.com/watch?v=UpqLWS-f7dw)
 
 **Video curto de algumas funcionalidades do processo de supervisão SCADA**
 [![SCADA](http://img.youtube.com/vi/c-R79pKhEeU/0.jpg)](https://youtu.be/c-R79pKhEeU)
+
+----
+
+<br />
+<br />
 
 ##### Funcionalidades
 * Inicialização do sistema, verificando se há peças
