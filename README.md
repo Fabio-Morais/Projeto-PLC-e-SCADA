@@ -1,4 +1,4 @@
-# AUTO
+# Projeto-PLC-e-SCADA
 ___
 
 #### Neste trabalho pretende-se controlar e supervisionar uma célula da linha de produção flexível que existe no laboratório.
