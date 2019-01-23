@@ -6,7 +6,7 @@ ___
 * ###### Tarefa 1: desenvolver uma aplicação de controlo da célula utilizando um autómato programável.
 * ###### Tarefa 2: desenvolver uma aplicação de supervisão e monitorizarão da célula utilizando uma aplicação SCADA.
 
----
+
 
 **A linha de produção tem o seguinte aspeto:**
 ![2](https://user-images.githubusercontent.com/35969631/51605293-8d283c80-1f06-11e9-8dab-bf1868a8445f.PNG)
