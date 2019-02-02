@@ -12,6 +12,7 @@ ___
 <br />
 
 **A linha de produção tem o seguinte aspeto:**
+
 ![2](https://user-images.githubusercontent.com/35969631/51605293-8d283c80-1f06-11e9-8dab-bf1868a8445f.PNG)
 
 Irá ser desenvolvida o controlo e supervisão apenas para a celula 1 recorrendo ao [**winlog**](https://www.sielcosistemi.com/en/download/public/winlog_lite.html) para desenvolvimento da aplicação de supervisão (SCADA), para o desenvolvimento da aplicação de controlo irá ser utilizado automatos  do fabricante Schneider Electric do modelo M340 com as seguintes características:
